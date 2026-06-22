@@ -1,0 +1,6 @@
+.godot/
+*.import
+*.tmp
+__pycache__/
+*.pyc
+selftest.gd
